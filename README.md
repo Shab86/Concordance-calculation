@@ -1,11 +1,9 @@
 # Concordance-calculation
 Script to calculate concordances between imputed &amp; typed SNP's
 
-## Imputation output:
+## Imputation files:
 ```
 imputedfile.gen
-```
-```
 imputedfile.sample
 ```
 
