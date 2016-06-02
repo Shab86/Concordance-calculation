@@ -19,7 +19,7 @@ Rscript concordance.R imputedfile.gen imputedfile.sample typed_plink.raw rsA
 
 ## Output:
 ```
-1). Scatter plot PNG file
-2). Scatter plot data file 
-3). Correlation summary for rsA
+Scatter plot PNG file
+Scatter plot data file 
+Correlation summary for rsA
 ```
